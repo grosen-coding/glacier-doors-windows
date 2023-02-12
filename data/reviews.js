@@ -1,0 +1,51 @@
+export const reviews = [
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+  {
+    name: "John Doe",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris. Sed euismod, nisl vel tincidunt luctus, nunc nisl aliquam massa, eget aliquam nisl nunc vel mauris.",
+    image: "",
+    date: "2021-01-01",
+    rating: 5,
+  },
+];
