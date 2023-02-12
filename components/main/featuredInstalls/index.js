@@ -7,7 +7,7 @@ const FeaturedInstalls = () => {
     <section>
       <h2>Featured Window Installations</h2>
       <div>Project Image Slider</div>
-      <Link href="/our-work">
+      <Link href="/portfolio">
         <Button text="View More" />
       </Link>
     </section>
