@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 import AwardsSection from "./awards";
 import FeaturedInstalls from "./featuredInstalls";
 import FinanceSection from "./financing";
@@ -11,7 +12,7 @@ import WindowStylesSection from "./windowStyles";
 
 const Main = () => {
   return (
-    <main>
+    <>
       <FinanceSection />
       <AwardsSection />
       <ProductsSection />
@@ -21,7 +22,7 @@ const Main = () => {
       <ReviewsSection />
       <FeaturedInstalls />
       <InstagramSection />
-    </main>
+    </>
   );
 };
 
