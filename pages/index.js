@@ -1,5 +1,4 @@
 import Head from "next/head";
-import styles from "@/styles/Home.module.css";
 import Header from "@/components/header";
 import Main from "@/components/main";
 import FooterSection from "@/components/footer";
