@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import Logo from "../Logo";
+import Logo from "../logo";
 import Button from "../buttons/Button";
 import { Fragment } from "react";
 import { Disclosure, Menu, Transition } from "@headlessui/react";

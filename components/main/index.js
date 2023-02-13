@@ -9,6 +9,7 @@ import ResourcesSection from "./resources";
 import ReviewsSection from "./reviews";
 import TechnologySection from "./technology";
 import WindowStylesSection from "./windowStyles";
+import ContactSection from "./contact";
 
 const Main = () => {
   return (
@@ -22,6 +23,7 @@ const Main = () => {
       <ReviewsSection />
       <FeaturedInstalls />
       <InstagramSection />
+      <ContactSection />
     </>
   );
 };

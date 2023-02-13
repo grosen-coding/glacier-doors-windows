@@ -1,7 +1,7 @@
 import Button from "@/components/buttons/Button";
 import React, { useState } from "react";
 import FooterMenu from "./FooterMenu";
-import EstimateForm from "@/components/header/hero/EstimateForm";
+import EstimateForm from "@/components/forms/EstimateForm";
 
 const FooterSection = () => {
   const [showForm, setShowForm] = useState(false);

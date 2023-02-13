@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../../buttons/Button";
-import EstimateForm from "./EstimateForm";
+import EstimateForm from "../../forms/EstimateForm";
 
 const Hero = () => {
   return (
